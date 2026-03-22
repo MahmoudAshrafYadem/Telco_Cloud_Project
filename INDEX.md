@@ -373,7 +373,7 @@ For questions or issues:
 
 **Project Status**: ✅ **READY TO DEPLOY**
 
-**Last Updated**: March 2024
+**Last Updated**: 23/3/2026
 
 **Author**: Mohammed Ahmed Ali | **Course**: Docker & Docker Compose
 

@@ -392,5 +392,5 @@ docker-compose logs --tail=50
 
 ---
 
-Last Generated: March 2024
+Last Generated: 23/3/2026
 For the latest information, see README.md

@@ -5,9 +5,9 @@
 
 ## Team 1: Container Image Size Optimization
 **Team Members**: (Max 3)
-- Member 1: ________________
-- Member 2: ________________
-- Member 3: ________________
+- Member 1: mohammed Ahmed Ali
+- Member 2: ibrahim samy
+- Member 3: mahmoud ashraf
 
 ### Primary Objective
 Reduce container image sizes to improve deployment efficiency and reduce attack surface.
@@ -44,9 +44,9 @@ Reduce container image sizes to improve deployment efficiency and reduce attack 
 
 ## Team 2: Container Image Security
 **Team Members**: (Max 3)
-- Member 1: ________________
-- Member 2: ________________
-- Member 3: ________________
+- Member 1: mohammed Ahmed Ali
+- Member 2: ibrahim samy
+- Member 3: mahmoud ashraf
 
 ### Primary Objective
 Improve container image security by scanning for vulnerabilities and hardening configurations.
@@ -84,9 +84,9 @@ Improve container image security by scanning for vulnerabilities and hardening c
 
 ## Team 3: Docker Compose Security
 **Team Members**: (Max 3)
-- Member 1: ________________
-- Member 2: ________________
-- Member 3: ________________
+- Member 1: mohammed Ahmed Ali
+- Member 2: ibrahim samy
+- Member 3: mahmoud ashraf
 
 ### Primary Objective
 Secure the orchestration layer with network isolation, resource limits, and controlled exposure.
@@ -125,9 +125,9 @@ Secure the orchestration layer with network isolation, resource limits, and cont
 
 ## Team 4: Secret Management Using HashiCorp Vault
 **Team Members**: (Max 3)
-- Member 1: ________________
-- Member 2: ________________
-- Member 3: ________________
+- Member 1: mohammed Ahmed Ali
+- Member 2: ibrahim samy
+- Member 3: mahmoud ashraf
 
 ### Primary Objective
 Implement secure secret storage and management using HashiCorp Vault.
@@ -169,9 +169,9 @@ Implement secure secret storage and management using HashiCorp Vault.
 
 ## Team 5: Secure Image Distribution Using Private Registry
 **Team Members**: (Max 3)
-- Member 1: ________________
-- Member 2: ________________
-- Member 3: ________________
+- Member 1: mohammed Ahmed Ali
+- Member 2: ibrahim samy
+- Member 3: mahmoud ashraf
 
 ### Primary Objective
 Implement a private Docker registry for secure image storage and distribution.

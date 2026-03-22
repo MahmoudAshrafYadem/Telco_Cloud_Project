@@ -99,13 +99,13 @@ services:
 
 ### Security Checklist
 
-- [ ] Non-root user implemented
-- [ ] Trivy scan results < 5 vulnerabilities
-- [ ] No CRITICAL severity vulnerabilities
-- [ ] Security scanning integrated into workflow
-- [ ] Capabilities restricted
-- [ ] Read-only filesystem implemented where possible
-- [ ] Base image security verified
+- [x] Non-root user implemented
+- [x] Trivy scan results < 5 vulnerabilities
+- [x] No CRITICAL severity vulnerabilities
+- [x] Security scanning integrated into workflow
+- [x] Capabilities restricted
+- [x] Read-only filesystem implemented where possible
+- [x] Base image security verified
 
 ### Measurement Tools
 
